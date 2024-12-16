@@ -14,3 +14,4 @@ COPY . .
 
 CMD ["python", "-m", "flask", "--app", "loan_app", "run", "--host=0.0.0.0"]
 
+
